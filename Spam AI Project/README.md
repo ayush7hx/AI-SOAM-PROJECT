@@ -1,5 +1,5 @@
 # � Email Spam Detector AI
-**CBSE Class X AI Project - Academic Year 2025-26**
+**CBSE Class XII AI Project - Academic Year 2025-26**
 ## 👨‍💻 **Created by: Ayush7hx**
 ## 📋 Project Overview
 An AI-powered system that classifies EMAIL messages as **SPAM** or **HAM** (legitimate) using Natural Language Processing and Machine Learning.
@@ -25,4 +25,5 @@ Download Python 3.8+ from [python.org](https://python.org)
 
 ### 2. Install Required Libraries
 ```bash
+
 pip install -r requirements.txt
